@@ -1,0 +1,1 @@
+This project involves the design, layout, and comparative performance analysis of a 3-bit Gray-to-Binary ,the study evaluates two distinct CMOS implementation strategies: NAND-based logic and XOR-based logic.
